@@ -3,5 +3,6 @@ For this assignment I will create generative art which is responsive to audio pl
 
 ## References:
 Virtual Reality: https://en.wikipedia.org/wiki/Virtual_reality
+
 Visual Music: https://en.wikipedia.org/wiki/Visual_music
 
