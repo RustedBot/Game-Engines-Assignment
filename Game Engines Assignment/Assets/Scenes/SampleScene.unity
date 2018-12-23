@@ -249,6 +249,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc28d8db6c6b2b343b4d2b899f1ac22c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxFrequency: 0
+  binRange: 0
+  subBassAmplitude: 0
+  bassAmplitude: 0
+  lowMidrangeAmplitude: 0
+  midrangeAmplitude: 0
+  upperMidrangeAmplitude: 0
+  presenceAmplitude: 0
+  brillianceAmplitude: 0
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
